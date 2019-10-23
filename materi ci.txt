@@ -1,0 +1,2 @@
+http://localhost/workshop_ci/batch3_ii/index.php/mahasiswa(class/nama controler)/index(function)/param
+http://localhost/workshop_ci/batch3_ii/CodeIgniter-3.1.7/index.php/mahasiswa/getviewmahasiswa/fatoni/depok
